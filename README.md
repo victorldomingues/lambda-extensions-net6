@@ -4,4 +4,4 @@ Em meados de novembro de 2022 os arquiteto e engenheiro da AWS publicaram um art
 
 Aqui vamos propor a implementação dessa solução em .NET 6, utilizando Terraform para automação da infraestrutura da função lambda.
 
-Veja meu artigo na integra: [aqui]()
+Veja meu artigo na integra: [aqui](http://localhost:1313/blog/aws-parameters-and-secrets-lambda-extension-e-.net-6/)
